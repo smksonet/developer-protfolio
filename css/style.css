@@ -16,7 +16,7 @@ section{
 nav{
     display: flex;
     justify-content: space-between;
-    padding: 50px 120px;
+    padding: 50px 200px;
 }
 .nav-title{
     font-weight: 800;
